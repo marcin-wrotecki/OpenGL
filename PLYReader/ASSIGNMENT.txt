@@ -1,0 +1,6 @@
+.ply reader
+Elementy, które powinny znaleŸæ siê w projekcie:
+1) Wyœwietlenie modelu w postaci siatki trójk¹tów/czworok¹tów
+2) Kolor ka¿dego trójk¹ta nale¿y dobraæ w zale¿noœci od jego po³o¿enia wzglêdem osi Z
+3) Osie X, Y, Z ( znaczniki na osiach z liczbami opcjonalnie)
+4) Siatka lini¹ kropkowan¹ lub przerywan¹
